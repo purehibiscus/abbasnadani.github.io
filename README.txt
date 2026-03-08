@@ -140,16 +140,17 @@ Excel, Power Query, Trello
 https://github.com/purehibiscus/AgileDataAnalysisProjectEcommerceEDADashboardExcel 
 
 Certifications & Learning
-SQL for Data Science – UC Davis (Coursera)  
-Excel Skills for Business – Coursera  
-Microsoft Power BI Data Analysis – Coursera  
-Google Data Analytics Professional Certificate  
-Business Process Modeling – Coursera  
-Data Privacy, Security, Governance – Coursera
-2025 SQL BootCamp - Baraa
-2025 Tableau BootCamp
+- SQL for Data Science – UC Davis (Coursera)  
+- Excel Skills for Business – Coursera  
+- Microsoft Power BI Data Analysis – Coursera  
+- Google Data Analytics Professional Certificate  
+- Business Process Modeling – Coursera  
+- Data Privacy, Security, Governance – Coursera
+- 2025 SQL BootCamp - Baraa
+- 2025 Tableau BootCamp
 
 Contact Me
 nadaniabbas105@gmail.com 
 +234 813 753 5838 
  
+
