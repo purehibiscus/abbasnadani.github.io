@@ -1,34 +1,34 @@
-Hi, I'm **Abbas Ahmad Nadani** 
+Hi, I'm Abbas Ahmad Nadani 
  
-**Senior Data & Business Intelligence Analyst | Analytics Engineer | Data Storytellerr**
+Senior Data & Business Intelligence Analyst | Analytics Engineer | Data Story-teller
 Nigeria 
-**Portfolio**: https://purehibiscus.github.io/abbasnadani.github.io/ 
-**LinkedIn**: https://www.linkedin.com/in/abbasnadania85414190/ 
+Portfolio: https://purehibiscus.github.io/abbasnadani.github.io/ 
+LinkedIn: https://www.linkedin.com/in/abbasnadania85414190/ 
 
-**About Me**
-Data & BI Analyst with **3+ years of experience** transforming raw data into actionable business insights across **fintech, ecommerce, product, and operations**. Skilled in **SQL, Power BI, Excel, Tableau, Python, and BI dashboarding**, with hands-on experience in:
+About Me
+Data & BI Analyst with 3+ years of experience transforming raw data into actionable business insights across fintech, ecommerce, product, and operations. Skilled in SQL, Power BI, Excel, Tableau, Python, and BI dashboarding, with hands-on experience in:
 
-**Data Engineering & ETL**: Data cleaning, transformation, dbt, Airflow, Snowflake, BigQuery  
-**Business Intelligence & Analytics**: KPI development, dashboarding, Power BI/Excel/Metabase reporting  
-**Customer & Product Analytics**: LTV, MRR, ARR, ARPU, retention, churn, cohort analysis  
-**Financial & SaaS Analytics**: GAAP-compliant SaaS metrics, revenue modeling, variance analysis  
-**Machine Learning & Experimentation**: Predictive modeling, regression, A/B testing  
-**Time-Series Analysis**: MoM, YoY Analysis, Rolling Totals, Moving Average
+Data Engineering & ETL: Data cleaning, transformation, dbt, Airflow, Snowflake, BigQuery  
+Business Intelligence & Analytics: KPI development, dashboarding, Power BI/Excel/Metabase reporting  
+Customer & Product Analytics: LTV, MRR, ARR, ARPU, retention, churn, cohort analysis  
+Financial & SaaS Analytics: GAAP-compliant SaaS metrics, revenue modeling, variance analysis  
+Machine Learning & Experimentation: Predictive modeling, regression, A/B testing  
+Time-Series Analysis: MoM, YoY Analysis, Rolling Totals, Moving Average
 
 I’m passionate about translating complex datasets into actionable insights that drive strategic decisions and business growth.
 
-**Technical Skills**
-**Data & Analytics | BI Tools | Cloud & ETL | Workflow & Project**
+Technical Skills
+Data & Analytics | BI Tools | Cloud & ETL | Workflow & Project
 
 SQL, Python, Excel, Pandas | Power BI, Tableau Desktop, Metabase, Looker, Qlik | Snowflake, BigQuery, AWS, Azure, dbt, Airflow | Trello, Notion, Slack, Terraform
 Data Modeling, Advanced Excel & PowerQuery | DAX, Measures, RLS KPI Modeling, Calc. Fields, LODs, Data Blending, Sets, Parameters | ETL, Data Pipelines, Cleaning | Agile, Sprint Planning, Documentation, Trello, SDLC, Requirements Gathering
 Statistical Analysis, A/B Tests | Dashboards & Visualization | Data Governance & Security | Collaboration & Stakeholder Engagement |
 
 
-**Projects**
+Projects
 
-**Business Intelligence & Analytics**
-**Project | Description | Tools | GitHub**
+Business Intelligence & Analytics
+Project | Description | Tools | GitHub
 Olist E-Commerce Sales & Customer Insights
 Analyzed 100k+ transactions to uncover sales trends, product demand, and customer behavior. Executive Power BI dashboard for strategic insights. 
 Power BI, SQL
@@ -80,10 +80,10 @@ Power BI, DAX
 https://github.com/purehibiscus/FinancialPerformanceVarianceAnalysisDashboard 
 
 
-**Data Engineering & Python Projects**
-**Project | Description | Tools | Link**
+Data Engineering & Python Projects
+Project | Description | Tools | Link
 
-**Data Cleaning & Web Scraping** 
+Data Cleaning & Web Scraping 
 End-to-end cleaning of messy datasets and scraping structured data from web sources for BI-ready datasets. 
 Python, Pandas, BeautifulSoup 
 https://github.com/purehibiscus/WebdataScrapingandCustomer_ListCleaningwithPythonProjects 
@@ -94,11 +94,11 @@ MySQL, SQL, Excel, Power BI
 https://github.com/purehibiscus/LaptopdatacleaningwithPythonandEDAwithMySQL 
 
 
-**Machine Learning & Experimentation**
-**Project | Description | Tools | Link**
+Machine Learning & Experimentation
+Project | Description | Tools | Link
 
 California Housing Price Prediction 
-Regression models predicting housing prices using socioeconomic and geographic features; **R² = 0.89**.
+Regression models predicting housing prices using socioeconomic and geographic features; R² = 0.89.
 Python, Scikit-Learn, Pandas 
 https://github.com/purehibiscus/NYHousedatasetPricePredictionwithML 
 
@@ -108,8 +108,8 @@ Python, Statistics
 https://github.com/purehibiscus/ABTestingAnalysisofWebpageConversionRates 
 
 
-**Public Data & Research Analytics**
-**Project | Description | Tools | Link**
+Public Data & Research Analytics
+Project | Description | Tools | Link
 
 Global Health Statistics Analysis 
 Analysis of 1M+ records to uncover disease burden, healthcare access, and economic impact patterns. 
@@ -122,8 +122,8 @@ Power BI, DAX
 https://github.com/purehibiscus/MalariainafricadatasetBIAnalysiswithPowerBI 
 
 
-**Advanced BI Case Study**
-**Project | Description | Tools | Link**
+Advanced BI Case Study
+Project | Description | Tools | Link
 
 e-Sports Prize Pool Intelligence Analysis 
 $398M+ global esports prize pool analytics, dashboards for market expansion, player performance, and concentration risk. 
@@ -131,15 +131,15 @@ Power BI
 https://github.com/purehibiscus/eSportsEarningsIntelligenceAnalysis 
 
 
-**Agile Analytics & Project Management**
-**Project | Description | Tools | Link**
+Agile Analytics & Project Management
+Project | Description | Tools | Link
 
 Agile Data Analytics Project 
 End-to-end Agile workflow: sprint planning, backlog grooming, KPI dashboarding, and stakeholder reporting. 
 Excel, Power Query, Trello
 https://github.com/purehibiscus/AgileDataAnalysisProjectEcommerceEDADashboardExcel 
 
-**Certifications & Learning**
+Certifications & Learning
 SQL for Data Science – UC Davis (Coursera)  
 Excel Skills for Business – Coursera  
 Microsoft Power BI Data Analysis – Coursera  
@@ -149,7 +149,7 @@ Data Privacy, Security, Governance – Coursera
 2025 SQL BootCamp - Baraa
 2025 Tableau BootCamp
 
-**Contact Me**
+Contact Me
 nadaniabbas105@gmail.com 
 +234 813 753 5838 
  
